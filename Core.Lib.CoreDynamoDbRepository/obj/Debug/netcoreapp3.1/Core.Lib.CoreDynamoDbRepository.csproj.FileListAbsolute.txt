@@ -1,0 +1,9 @@
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\bin\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.deps.json
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\bin\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.dll
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\bin\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.pdb
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\obj\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\obj\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.AssemblyInfoInputs.cache
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\obj\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.AssemblyInfo.cs
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\obj\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.csproj.CoreCompileInputs.cache
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\obj\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.dll
+D:\SRIKANTH\1.AWS Videos\Core.Lib.CoreDynamoDbRepository\Core.Lib.CoreDynamoDbRepository\obj\Debug\netcoreapp3.1\Core.Lib.CoreDynamoDbRepository.pdb

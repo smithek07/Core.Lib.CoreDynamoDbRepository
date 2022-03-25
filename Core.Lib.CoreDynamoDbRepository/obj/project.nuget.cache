@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTNzpn6xTxZep955mlLNxG4MyN03cRztUhuRHikbD9baYv5Hr8R8Jl+dp7p+hKH4Fn7Nis1L2oVEBIZMjZDAFQ==",
+  "success": true,
+  "projectFilePath": "D:\\SRIKANTH\\1.AWS Videos\\Core.Lib.CoreDynamoDbRepository\\Core.Lib.CoreDynamoDbRepository\\Core.Lib.CoreDynamoDbRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eksri\\.nuget\\packages\\awssdk.core\\3.7.9.2\\awssdk.core.3.7.9.2.nupkg.sha512",
+    "C:\\Users\\eksri\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.15\\awssdk.dynamodbv2.3.7.3.15.nupkg.sha512"
+  ],
+  "logs": []
+}
